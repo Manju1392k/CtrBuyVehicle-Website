@@ -1,7 +1,7 @@
 
 # 🟢 This Branch Number is 2
 
-* ### In this Branch Desktop Version and Responsive Design.
+* ### In this Branch Desktop Version 🖥️ and 📱 Responsive Design.
 
 ---
 
